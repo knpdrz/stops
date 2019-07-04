@@ -1,0 +1,12 @@
+warszawa
+	https://www.ztm.waw.pl/rozklad_nowy.php?c=183&l=1
+	4.07.2019
+gdańsk
+	https://www.ztm.gda.pl/rozklady/przystanki.html
+	4.07.2019
+bydgoszcz
+	http://www.zdmikp.bydgoszcz.pl/images/stories/obrazki/komunikacja/Wykaz_przystankw1.pdf
+	4.07.2019
+wrocław
+	https://www.wroclaw.pl/wszystkie-przystanki-wydruk
+	4.07.2019

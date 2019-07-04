@@ -1,0 +1,181 @@
+Identyfikator miasta Bydgoszczy: 0928363
+I. Przystanki autobusowe
+1 2 3 4 5 6 7 8 9
+1 01010 1 Gdańska - Jeździecka ul.Gdańska DP 3006C Zamczysko Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+2 01011 1 Gdańska - Jeździecka ul.Gdańska DP 3006C Podkowa Żołędowo przez Niemcz, Osielsko ogólnodostępny
+3 01012 1 Armii Krajowej - Zamczysko ul. Armii Krajowej DK 5 Podkowa Osielsko, Niemcz ogólnodostępny
+4 01013 1 Armii Krajowej - Zamczysko ul. Armii Krajowej DK 5 Kamienna Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+5 01017 1 Myślęcinek ul. Gdańska (pętla) DP 3006C I. Modrzewiowa
+II. Jeździecka
+I. Rondo Jagiellonów, Dworzec PKS
+II. Niemcz, Osielsko ogólnodostępny
+6 01018 1 Las Gdański ul. Gdańska DP 3006C Zamczysko Niemcz, Osielsko ogólnodostępny
+7 01019 1 Las Gdański ul. Gdańska DP 3006C Modrzewiowa Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+8 01030 1 Leśne ul. Sułkowskiego DP 3028C Kamienna Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+9 01032 1 Leśne ul. Modrzewiowa DP 3016C Gdańska Niemcz, Osielsko ogólnodostępny
+10 01053 1 Wyszyńskiego - Głowackiego ul. Wyszyńskiego DK 5 Modrzewiowa Osielsko, Niemcz ogólnodostępny
+11 02052 2 Plac Teatralny ul. Focha DG 200218C Gdańska Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+12 02056 2 Focha - Opera ul. Focha DG 200218C Rondo Grunwaldzkie Pawłówek, Nakło, Koronowo ogólnodostępny
+13 03003 3 Rondo Wielkopolskie ul. Powstańców Wlkp. DP 3021C Gdańska Dworzec Główny PKP ogólnodostępny
+14 03006 3 Powstańców Wlkp. - Lelewela ul. Powstańców Wlkp. DP 3021C Wyszyńskiego Osielsko, Niemcz ogólnodostępny
+15 03007 3 Powstańców Wlkp. - Lelewela ul. Powstańców Wlkp. DP 3021C Gdańska Dworzec PKS, Rondo Jagiellonów ogólnodostępny
+16 03008 3 Paderewskiego ul. Paderewskiego DP 3058C Rondo Jagiellonów Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+17 03015 3 Rondo Ossolińskich ul. Sieńki -
+Piotrowskiego,
+Al.Ossollińskich Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+18 03016 3 Ogińskiego - Moniuszki ul. Ogińskiego DP 3017C Rondo Wielkopolskie Osielsko, Niemcz ogólnodostępny
+19 03038 3 Dworzec Autobusowy ul. Jagiellońska
+(przystanek miejski) DG 200298C Rondo Jagiellonów Pawłówek, Nakło, Koronowo ogólnodostępny
+20 03040 3 Dworzec Autobusowy ul. Ogińskiego
+(przystanek miejski) DP 3017C Rondo Wielkopolskie Osielsko, Niemcz ogólnodostępny
+21 03053 3 UKW ul. Sułkowskiego DP 3028C Modrzewiowa Osielsko, Niemcz ogólnodostępny
+22 03054 3 UKW ul. Ogińskiego DP 3017C Jagiellońska Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+23 03057 3 Dworzec Autobusowy ul. Ogińskiego
+(przystanek miejski) DP 3017C Rondo Jagiellonów, Błonie Pawłówek, Nakło, Koronowo ogólnodostępny
+24 04028 4 Rondo Fordońskie ul. Wyszyńskiego DK 5 Rondo Skrzetuskie Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+25 05018 5 Koronowska - Wodociągi ul. Koronowska DK 25 Grunwaldzka Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+Kierunek docelowy Dostępność
+Wykaz przystanków komunikacyjnych, których właścicielem jest Gmina Bydgoszcz
+udostępnionych dla przewoźników oraz operatorów.
+Nr ewid.
+Rejon
+Kategoria
+drogi Nazwa przystanku Kierunek na terenie
+miasta Lp. Lokalizacja
+Aktualizacja II z dnia 13 grudnia 2016r,
+Przystanki od nr 119 do nr 155 są przeznaczone w pierwszej kolejności do obsługi linii PKS i przewoźników prywatnych.
+Strona 1 z 5
+26 05019 5 Koronowska - Wodociągi ul. Koronowska DK 25 Opławiec Koronowo ogólnodostępny
+27 05020 5 Nad Torem - Chmurna ul. Nad Torem DK 25 Grunwaldzka Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+28 05021 5 Nad Torem - Chmurna ul. Nad Torem DK 25 Opławiec Koronowo ogólnodostępny
+29 05022 5 Nad Torem - Karolewska ul. Nad Torem DK 25 Grunwaldzka Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+30 05023 5 Nad Torem - Karolewska ul. Nad Torem DK 25 Opławiec Koronowo ogólnodostępny
+31 05036 5 Rondo Maczka ul. Nad Torem DK 25 Krajeńska Koronowo ogólnodostępny
+32 05037 5 Rondo Maczka ul. Grunwaldzka DK 80 Osowa Góra Pawłówek, Nakło, Koronowo ogólnodostępny
+33 05040 5 Grunwaldzka - Kraszewskiego ul. Grunwaldzka DK 25 Nad Torem, Kolbego Koronowo, Nakło ogólnodostępny
+34 05041 5 Grunwaldzka - Kraszewskiego ul. Grunwaldzka DK 25 Rondo Grunwaldzkie Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+35 05043 5 Grunwaldzka - Flisacka ul. Grunwaldzka DK 80 Rondo Grunwaldzkie Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+36 05044 5 Grunwaldzka - Filtrowa ul. Grunwaldzka DK 80 Kolbego Pawłówek, Nakło, Koronowo ogólnodostępny
+37 05045 5 Grunwaldzka - Filtrowa ul. Grunwaldzka DK 80 Rondo Grunwaldzkie Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+38 05050 5 Grunwaldzka - Kolbego ul. Grunwaldzka DK 80 Rondo Grunwaldzkie Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+39 05051 5 Kolbego - Grunwaldzka ul. Kolbego DP 1529C Rekinowa Osówiec, Wojnowo ogólnodostępny
+40 05055 5 Kolbego - Wielorybia ul. Kolbego DP 1529C Grunwaldzka Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+41 05078 5 Rondo Maczka ul. Nad Torem DK 25 Grunwaldzka Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+42 06001 6 Rondo Grunwaldzkie ul. Nakielska DP 1926C Wilczak Łochowo ogólnodostępny
+43 06003 6 Rondo Grunwaldzkie ul. Focha DG 200218C Jagiellońska Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+44 06013 6 Nakielska - Wrzesińska ul. Nakielska DP 1926C Belma Łochowo ogólnodostępny
+45 06014 6 Nakielska - Wrzesińska ul. Nakielska DP 1926C Rondo Grunwaldzkie Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+46 06019 6 Nakielska - Widok ul. Nakielska DP 1926C Lisia Lisi Ogon, Łochowo ogólnodostępny
+47 06020 5 Nakielska - Widok ul. Nakielska DP 1926C Rondo Grunwaldzkie Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+48 06023 6 Nakielska - Wiśniowa ul. Nakielska DP 1926C Belma Łochowo ogólnodostępny
+49 06024 6 Nakielska - Wiśniowa ul. Nakielska DP 1926C Rondo Grunwaldzkie Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+50 06025 6 Nakielska - Żywiecka ul. Nakielska DP 1926C Lisia Lisi Ogon, Łochowo ogólnodostępny
+51 06026 6 Nakielska - Żywiecka ul. Nakielska DP 1926C Rondo Grunwaldzkie Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+52 06032 6 Nakielska - Lisia ul. Nakielska DP 1926C Belma Łochowo ogólnodostępny
+53 06033 6 Nakielska - Lisia ul. Nakielska DP 1926C Rondo Grunwaldzkie Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+54 07001 7 Dworzec Wschód ul. Fordońska DK 80 Fordon Unisław, Toruń ogólnodostępny
+55 07002 7 Dworzec Wschód ul. Fordońska DK 80 Wyścigowa Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+56 07013 7 Fordońska - Wiślana ul. Fordońska DK 80 Rejewskiego Nowy Fordon ogólnodostępny
+57 07027 7 Dworzec Akademia ul. Fordońska DK 80 Stary Fordon Unisław, Toruń ogólnodostępny
+58 07028 7 Dworzec Akademia ul. Fordońska DK 80 Wyścigowa Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+59 07029 7 Fordońska - Wyszogrodzka ul. Fordońska DK 80 Stary Fordon Unisław, Toruń ogólnodostępny
+60 07030 7 Fordońska - Wyszogrodzka ul. Fordońska DK 80 Wyścigowa Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+61 07035 7 Fordońska - Wiadukt ul. Fordońska DK 80 Stary Fordon Unisław, Toruń ogólnodostępny
+62 07036 7 Fordońska - Wiadukt ul. Fordońska DK 80 Wyścigowa Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+63 08007 8 Wyzwolenia - Derdowskiego ul. Wyzwolenia DW 256 Mariampol Jarużyn, Strzelce Dolne ogólnodostępny
+64 08022 8 Piłsudskiego - Swobodna ul. Piłsudskiego DG 200683C Osiedle Nad Wisłą Nowy Fordon ogólnodostępny
+65 08023 8 Piłsudskiego - Swobodna ul. Piłsudskiego DG 200683C Andersa Dworzec Główny PKP ogólnodostępny
+66 08024 8 Nad Wisłą ul. Piłsudskiego (pętla) DG 200683C Altanowa Osiedle Nad Wisłą ogólnodostępny
+67 08026 8 Pelplińska - Jarużyńska ul. Pelplińska DG 200666C Tatrzańskie Jarużyn, Strzelce Dolne ogólnodostępny
+Strona 2 z 5
+68 08027 8 Pelplińska - Jarużyńska ul. Pelplińska DG 200666C Korfantego Dworzec Główny PKP, Osielsko ogólnodostępny
+69 08028 8 Pelplińska - Taterników ul. Pelplińska DG 200666C Tatrzańskie Jarużyn, Strzelce Dolne, Os.Nad Wisłą ogólnodostępny
+70 08029 8 Pelplińska - Taterników ul. Pelplińska DG 200666C Korfantego Dworzec Główny PKP, Osielsko ogólnodostępny
+71 08030 8 Twardzickiego - Powalisza ul. Twardzickiego DG 201008C Tatrzańskie Jarużyn, Strzelce Dolne, Os.Nad Wisłą ogólnodostępny
+72 08031 8 Twardzickiego - Powalisza ul. Twardzickiego DG 201008C Korfantego Dworzec Główny PKP, Osielsko ogólnodostępny
+73 08032 8 Twardzickiego - Witosa ul. Twardzickiego DG 201008C Tatrzańskie Jarużyn, Strzelce Dolne, Os. Nad Wisłą ogólnodostępny
+74 08033 8 Twardzickiego - Witosa ul. Twardzickiego DG 201008C Korfantego Dworzec Główny PKP, Osielsko ogólnodostępny
+75 08034 8 Twardzickiego - Thommee' ul. Twardzickiego DG 201008C Tatrzańskie Jarużyn, Strzelce Dolne, Os. Nad Wisłą ogólnodostępny
+76 08035 8 Twardzickiego - Thommee' ul. Twardzickiego DG 201008C Korfantego Dworzec Główny PKP, Osielsko ogólnodostępny
+77 08036 8 Twardzickiego - Kleina ul. Twardzickiego DG 201008C Tatrzańskie Jarużyn, Strzelce Dolne, Os. Nad Wisłą ogólnodostępny
+78 08037 8 Twardzickiego - Kleina ul. Twardzickiego DG 201008C Korfantego Dworzec Główny PKP, Osielsko ogólnodostępny
+79 08038 8 Twardzickiego - Łochowskiego ul. Twardzickiego DG 201008C Tatrzańskie Jarużyn, Strzelce Dolne, Os. Nad Wisłą ogólnodostępny
+80 08039 8 Twardzickiego - Łochowskiego ul. Twardzickiego DG 201008C Korfantego Dworzec Główny PKP, Osielsko ogólnodostępny
+81 08044 8 Centrum Onkologii ul. Romanowskiej DG 200803C Matki Teresy z Kalkuty Dworzec Główny PKP ogólnodostępny
+82 08045 8 Centrum Onkologii ul. Romanowskiej DG 200803C Romanowskiej Nowy Fordon ogólnodostępny
+83 08077 8 Pod Skarpą - Żemojtela ul. Pod Skarpą DG 200706C Zamczysko Osielsko ogólnodostępny
+84 08078 8 Pod Skarpą - Żemojtela ul. Pod Skarpą DG 200706C Twardzickiego Os. Nad Wisłą ogólnodostępny
+85 08079 8 Pod Skarpą - Stamma ul. Pod Skarpą DG 200706C Zamczysko Osielsko ogólnodostępny
+86 08080 8 Pod Skarpą - Stamma ul. Pod Skarpą DG 200706C Twardzickiego Os. Nad Wisłą ogólnodostępny
+87 09001 9 Plac Poznański ul. Poznańska DK 25 Plac Poznański Białe Błota, Szubin, Łabiszyn ogólnodostępny
+88 09002 9 Plac Poznański ul. Grudziądzka DK 25 R. Bernardyńskie Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+89 09010 9 Szubińska - Żwirki i Wigury ul. Szubińska DW 223 Szulza Białe Błota, Szubin, Łabiszyn ogólnodostępny
+90 09028 9 Nowy Rynek ul. Wierzbickiego DK 25 Plac Poznański Białe Błota, Szubin, Łabiszyn ogólnodostępny
+91 09029 9 Nowy Rynek ul. Grudziądzka DK 25 Rondo Bernardyńskie Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+92 10005 10 Rondo Inowrocławskie ul. Kujawska DK 25 Rondo Kujawskie Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+93 10006 10 Rondo Inowrocławskie ul. Kujawska DK 25 Port Lotniczy Brzoza, Łabiszyn, Mogilno, Barcin ogólnodostępny
+94 10008 10 Jana Pawła II - Ziemska ul. Jana Pawła II DK 5 Port Lotniczy Brzoza, Łabiszyn, Mogilno, Barcin ogólnodostępny
+95 10009 10 Jana Pawła II - Ziemska ul. Jana Pawła II DK 5 Brzozowa Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+96 10010 10 Jana Pawła II - Wąbrzeska ul. Jana Pawła II DK 5 Port Lotniczy Brzoza, Łabiszyn, Mogilno, Barcin ogólnodostępny
+97 10011 10 Jana Pawła II - Wąbrzeska ul. Jana Pawła II DK 5 Brzozowa Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+98 10016 10 Rondo Kujawskie ul. Kujawska DK 25 Rondo Bernardyńskie Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+99 11005 11 Rondo Toruńskie ul. Toruńska DP 1546C Perłowa Solec Kujawski ogólnodostępny
+100 11044 11 Toruńska - Łuczniczki ul. Toruńska DP 1546C Kazimierza Wielkiego Solec Kujawski ogólnodostępny
+101 11048 11 Toruńska - Łuczniczki ul. Toruńska DP 1546C Rondo Toruńskie Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+102 12005 12 Toruńska - Kazimierza Wielkiego ul. Toruńska DP 1546C Łęgnowo Solec Kujawski ogólnodostępny
+103 12019 12 Toruńska - Kielecka ul. Toruńska DP 1546C Stomil Solec Kujawski ogólnodostępny
+104 12020 12 Toruńska - Kielecka ul. Toruńska DP 1546C Rondo Toruńskie Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+105 12033 12 Nowotoruńska-Objazdowa ul. Nowotoruńska DP 1547C Łęgnowo Solec Kujawski ogólnodostępny
+106 12035 12 Nowotoruńska-Objazdowa ul. Nowotoruńska DP 1547C Rondo Toruńskie Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+107 12036 12 Nowotoruńska - Planu 6-cio letniego ul. Nowotoruńska DP 1547C Łęgnowo Solec Kujawski ogólnodostępny
+108 12037 12 Nowotoruńska - Planu 6-cio letniego ul. Nowotoruńska DP 1547C Rondo Toruńskie Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+109 12052 12 Dworzec Łęgnowo ul. Toruńska DP 1546C Stomil Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+Strona 3 z 5
+110 12053 12 Dworzec Łęgnowo ul. Toruńska DP 1546C Łęgnowo Solec Kujawski ogólnodostępny
+111 12056 12 Toruńska - Przyłubska ul. Toruńska DP 1546C Stomil Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+112 12057 12 Toruńska - Przyłubska ul. Toruńska DP 1546C Łęgnowo Solec Kujawski ogólnodostępny
+113 12065 12 Nowotoruńska - Plątnowska ul. Nowotoruńska DP 1547C Stomil Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+114 12064 12 Nowotoruńska - Plątnowska ul. Nowotoruńska DP 1547C Łęgnowo Solec Kujawski ogólnodostępny
+115 12067 12 Nowotoruńska - Przepompownia ul. Nowotoruńska DP 1547C Stomil Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+116 12066 12 Nowotoruńska - Przepompownia ul. Nowotoruńska DP 1547C Łęgnowo Solec Kujawski ogólnodostępny
+117 12068 12 Nowotoruńska - Żółwińska ul. Nowotoruńska DP 1547C Łęgnowo Solec Kujawski ogólnodostępny
+118 12069 12 Nowotoruńska - Żółwińska ul. Nowotoruńska DP 1547C Rondo Toruńskie Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+119 01300 1 Zamczysko 29 ul. Zamczysko DG 201101C Tatrzańskie Os. Nad Wisłą ogólnodostępny
+120 01301 1 Zamczysko 29 ul. Zamczysko DG 201101C Armii Krajowej Osielsko ogólnodostępny
+121 01302 1 Zamczysko - Armii Krajowej ul. Zamczysko DG 201101C Tatrzańskie Os. Nad Wisłą ogólnodostępny
+122 01303 1 Zamczysko 33 ul. Zamczysko DG 201101C Armii Krajowej Osielsko ogólnodostępny
+123 01304 1 Zamczysko 50 ul. Zamczysko DG 201101C Tatrzańskie Os. Nad Wisłą ogólnodostępny
+124 02300 2 Dworzec Główny ul. Dworcowa DP 3005C Królowej Jadwigi Nowy Fordon ogólnodostępny
+125 03300 3 Św. Floriana ul. Św. Floriana DG 200217C Urocza - ogólnodostępny
+126 03301 3 Rondo Wielkopolskie ul. Ogińskiego DP 3017C Jagiellońska Koronowo, Nakło ogólnodostępny
+127 03302 3 Jagiellońska - Piotrowskiego ul. Jagiellońska DG 200298C Rondo Jagiellonów Koronowo, Nakło ogólnodostępny
+128 03303 3 Rondo Jagiellonów (Jagiellońska 28) ul. Jagiellońska DG 200298C Dworzec Autobusowy Fordon, Unisław, Toruń, Osielsko ogólnodostępny
+129 03304 3 Bernardyńska - Floriana ul. Bernardyńska - Rondo Jagiellonów - ogólnodostępny
+130 03305 3 Urocza - Św. Floriana ul. Urocza DG 201013C Rondo Jagiellonów Barcin, Łabiszyn ogólnodostępny
+131 04300 4 Wyścigowa pętla ul.Wyścigowa DG 201091C Sporna Unisław ogólnodostępny
+132 04301 4 Wyszyńskiego - Głowackiego ul. Wyszyńskiego DK 5 Powstańców Wlkp. Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+133 04302 4 Skłodowskiej-Curie (szpital) ul. Skłodowskiej-Curie DP 3059C Rondo Jagiellonów Dworzec PKS ogólnodostępny
+134 05300 5 Grunwaldzka 101 ul. Grunwaldzka DK 25 Rondo Grunwaldzkie Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+135 05301 5 Grunwaldzka 90 ul. Grunwaldzka DK 25 Koronowska Koronowo, Nakło ogólnodostępny
+136 05302 5 Grunwaldzka - Kolbego ul. Grunwaldzka DK 80 Pawłówek Naklo ogólnodostępny
+137 05303 5 Rekinowa ul. Rekinowa (pętla) DG 200795C Osówiec Wojnowo ogólnodostępny
+138 06300 6 Rondo Grunwaldzkie ul. Grunwaldzka DK 25 Nad Torem Koronowo, Nakło ogólnodostępny
+139 07300 7 Fordońska - Auchan ul. Fordońska DK 80 Rondo Fordońskie Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+140 08300 8 Altanowa - Piłsudskiego ul. Altanowa DG 200014C Andersa Osielsko ogólnodostępny
+141 08301 8 Pod Skarpą - Kulmatyckiego ul. Pod Skarpą DG 200706C Twardzickiego Os. Nad Wisłą ogólnodostępny
+142 08302 8 Pod Skarpą - Kulmatyckiego ul. Pod Skarpą DG 200706C Zamczysko Osielsko ogólnodostępny
+143 09300 9 Błonie ul. Szubińska DW 223 Szubin Białe Błota, Szubin, Łabiszyn ogólnodostępny
+144 09301 9 Błonie pętla ul. Szubińska (pętla) DW 223 Szubin Białe Błota, Szubin, Ciele ogólnodostępny
+145 09302 9 Szubińska 91 ul.Szubińska DW 223 Plac Poznański Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+146 10300 10 Bernardyńska 5 ul.Bernardyńska - Rondo Bernardyńskie Białe Błota, Szubin, Ciele ogólnodostępny
+147 10301 10 Rondo Kujawskie ul. Kujawska DK 25 Rondo Inowrocławskie Brzoza, Łabiszyn, Mogilno, Inowrocław ogólnodostępny
+148 11300 11 Toruńska (Wodociągi) ul. Toruńska DP 1546C Rondo Toruńskie Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+149 12300 12 Nowotoruńska - Kielecka ul. Nowotoruńska DP 1547C Rondo Toruńskie Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+150 12301 12 Nowotoruńska - Kielecka ul. Nowotoruńska DP 1547C Łęgnowo Solec Kujawski ogólnodostępny
+151 12302 12 Toruńska - Kazimierza Wielkiego ul. Toruńska DP 1546C Rondo Toruńskie Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+Strona 4 z 5
+152 12303 12 Stomil ul. Toruńska DP 1546C Łęgnowo Solec Kujawski ogólnodostępny
+153 12304 12 Stomil ul. Toruńska DP 1546C Rondo Toruńskie Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+154 12305 12 Toruńska - Plątnowska ul. Toruńska DP 1546C Stomil Rondo Jagiellonów, Dworzec PKS ogólnodostępny
+155 12306 12 Toruńska - Plątnowska ul. Toruńska DP 1546C Otorowo Solec Kujawski ogólnodostępny
+Strona 5 z 5
