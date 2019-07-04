@@ -2,22 +2,24 @@ import com.opencsv.CSVWriter
 import java.io.File
 import java.io.FileWriter
 
-fun main(args: Array<String>) {
-    val stopsCsv = "C:\\Users\\Zbigniew\\Desktop\\projekty\\przystanki\\allStops.csv"
+val stopsSourceFilesDir = "C:\\Users\\Zbigniew\\Desktop\\projekty\\przystanki\\stopsData\\sources"
+val stopsParsedFilesDir = "C:\\Users\\Zbigniew\\Desktop\\projekty\\przystanki\\stopsData\\parsed"
+val allStopsCsv = "C:\\Users\\Zbigniew\\Desktop\\projekty\\przystanki\\allStops.csv"
 
+fun main(args: Array<String>) {
     val stops = mutableListOf<Pair<String, String>>()
     stops.addAll(parseGdanskStops())
     stops.addAll(parseBydgoszczStops())
     stops.addAll(parseWarsawStops())
     stops.addAll(parseWroclawStops())
 
-    writeStopsListToCsv(stopsCsv, stops)
+    writeStopsListToCsv(allStopsCsv, stops)
 }
 
 fun parseWroclawStops(): List<Pair<String, String>> {
     println("parsing Wroclaw")
-    val stopsInWrocekTxt = "C:\\Users\\Zbigniew\\Desktop\\projekty\\przystanki\\wroclaw.txt"
-    val stopsInWrocekCsv = "C:\\Users\\Zbigniew\\Desktop\\projekty\\przystanki\\wroclaw.csv"
+    val stopsInWrocekTxt = "$stopsSourceFilesDir\\wroclaw.txt"
+    val stopsInWrocekCsv = "$stopsParsedFilesDir\\wroclaw.csv"
 
     val stopsInWrocek = mutableListOf<Pair<String, String>>()
 
@@ -31,8 +33,8 @@ fun parseWroclawStops(): List<Pair<String, String>> {
 
 fun parseBydgoszczStops(): List<Pair<String, String>> {
     println("parsing Bydgoszcz")
-    val stopsInBydziaTxt = "C:\\Users\\Zbigniew\\Desktop\\projekty\\przystanki\\bydgoszcz.txt"
-    val stopsInBydziaCsv = "C:\\Users\\Zbigniew\\Desktop\\projekty\\przystanki\\bydgoszcz.csv"
+    val stopsInBydziaTxt = "$stopsSourceFilesDir\\bydgoszcz.txt"
+    val stopsInBydziaCsv = "$stopsParsedFilesDir\\bydgoszcz.csv"
 
     val stopsInBydzia = mutableListOf<Pair<String, String>>()
 
@@ -56,8 +58,8 @@ fun parseBydziaLine(line: String): String? {
 
 fun parseGdanskStops(): List<Pair<String, String>> {
     println("parsing Gdansk")
-    val stopsInGdaTxt = "C:\\Users\\Zbigniew\\Desktop\\projekty\\przystanki\\gdansk.txt"
-    val stopsInGdaCsv = "C:\\Users\\Zbigniew\\Desktop\\projekty\\przystanki\\gdansk.csv"
+    val stopsInGdaTxt = "$stopsSourceFilesDir\\gdansk.txt"
+    val stopsInGdaCsv = "$stopsParsedFilesDir\\gdansk.csv"
 
     val stopsInGda = mutableListOf<Pair<String, String>>()
 
@@ -74,8 +76,8 @@ fun parseGdanskStops(): List<Pair<String, String>> {
 
 fun parseWarsawStops(): List<Pair<String, String>> {
     println("parsing Warsaw")
-    val stopsInWaTxt = "C:\\Users\\Zbigniew\\Desktop\\projekty\\przystanki\\warszawa.txt"
-    val stopsInWaCsv = "C:\\Users\\Zbigniew\\Desktop\\projekty\\przystanki\\warszawa.csv"
+    val stopsInWaTxt = "$stopsSourceFilesDir\\warszawa.txt"
+    val stopsInWaCsv = "$stopsParsedFilesDir\\warszawa.csv"
 
     val stopsInWa = mutableListOf<Pair<String, String>>()
     File(stopsInWaTxt).forEachLine { stopsInWa.addAll(parseWarsawLine(it)) }
